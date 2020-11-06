@@ -1,0 +1,7 @@
+com/user/userservices/UserServicesImpl.class
+com/user/userservices/User.class
+com/user/userservices/UserServicesImplService.class
+com/user/userservices/UserServicesImplProxy.class
+com/user/userservices/UserServicesImplServiceLocator.class
+com/user/userservices/UserServicesImplSoapBindingStub.class
+com/user/userservices/Client.class
